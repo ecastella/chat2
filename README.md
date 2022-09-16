@@ -1,1 +1,1 @@
-Notes app built with React and localStorage
+Notes app built using React and localStorage
