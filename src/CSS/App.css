@@ -14,17 +14,17 @@ body {
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    background: white;
-    border-radius: 10px;
-    max-width: 290px;
-    margin: 10px 0px;
-    padding: 0px 10px
+    background: white; 
+    padding: 0 5px;
+    margin: 5px 0;
 }
 .notes__title {
     color: #005A9C;
     font-size: 30px;
     font-family: "Montserrat";
-    font-weight: 500;
+    font-weight: 600;
+    background: white; 
+    width: 100%;
 }
 .notes {
     max-width: 1200px;
